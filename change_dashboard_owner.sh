@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 #
-# OP5 Script to sync dashboards to peered master
+# OP5 Script to change dashboard owner
 #
 # License: GPL
 # Copyright (c) 2018 Ken Dobbins
